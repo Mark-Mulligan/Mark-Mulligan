@@ -2,13 +2,7 @@
 
 ## About Me
 
-Hi! I'm Mark, a full stack developer based in Dallas, TX. I enjoy all aspects of developing, whether it is creating amazing
-user interfaces, building custom APIs, setting up an express
-server, or organzing and working with databases. I like to build
-practical projects that help make people's lives easier. I currently work with the MERN Stack (mongoDB, Express.js,
-React.js, and Node.js), but I am always learning something new. I
-am also well versed in SQL, Javascript, HTML, CSS, Jquery, and
-Bootstrap.
+Hi! I'm Mark, a software developer based in Dallas, TX. I currently work as a full stack developer for Visual Storage Intelligence where I support all levels of the VSI application. Our application, built using Python / React / Node.js / MSSQL provides in-depth enterprise storage analytics and reporting. Because of this, I have a lot of experience working with advanced data visuallization and robust, dynamic websites with ever changing data.
 
 ### Resume
 
@@ -20,4 +14,4 @@ Bootstrap.
 
 ## Skills
 
-React.js, HTML, CSS, Javascript, Bootstrap, Jquery, Node.js, Express.js, Mongodb, and MYSQL
+React.js, Next.js, Typescript, Node.js, Express.js, Python, CSS, Javascript, Bootstrap, Mongodb, and MSSQL
