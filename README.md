@@ -27,4 +27,4 @@ Full Stack app that let's you explore all the national parks. Search and filter 
 React app that uses graphQL to display realtime data for an oil rig.
 
 [Invoice Generator](https://www.youtube.com/watch?v=ofsShzbOSEA)
-Video demo of a invoice generator I made for one of my friends who teach private music lessons.
+Video demo of an invoice generator I made for one of my friends who teach private music lessons.
