@@ -6,7 +6,7 @@ Hi! I'm Mark, a software developer based in Dallas, TX. I currently work as a fu
 
 ### Resume
 
-[Click Here](https://mark-mulligan.github.io/assets/images/MarkMulliganFrontEndDeveloper.pdf)
+[Click Here](https://www.mulligandesigns.com/static/media/MarkMulliganFullStackDeveloper.414070d6.pdf)
 
 ### Personal Portfolio
 
