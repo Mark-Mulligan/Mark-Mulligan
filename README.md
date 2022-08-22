@@ -8,7 +8,7 @@ I was responsible for modernizing UI/UX design on legacy applications and assist
 
 ### Resume
 
-[Click Here](https://www.mulligandesigns.com/static/media/MarkMulliganFullStackDeveloper.414070d6.pdf)
+[Click Here](MarkMulliganFullStackDeveloper.pdf)
 
 ### Personal Portfolio
 
