@@ -8,7 +8,7 @@ I was responsible for modernizing UI/UX design on legacy applications and assist
 
 ### Resume
 
-[Click Here](MarkMulliganFullStackDeveloper.pdf)
+[Click Here](MarkMulliganFullStackDeveloper2024.pdf)
 
 ### Personal Portfolio
 
@@ -16,20 +16,26 @@ I was responsible for modernizing UI/UX design on legacy applications and assist
 
 ## Skills
 
-React.js, Next.js, Typescript, Node.js, Express.js, Python, CSS, Javascript, Bootstrap, Mongodb, and MSSQL
+React.js, Next.js, Typescript, Node.js, Express.js, Python, SQL, and AWS
 
 ## Projects
 
 Here are some of my latest projects I have been working on.
 
-[Just Code](https://just-code1.netlify.app/)
-This project was created to help people learn how to code with javascript. I found that a lot of sights like hacker rank and leet code are good for studying advanced concepts, but not so great for people learning how to code. I created this site to help others learn how to code by creating simple straightforward problems to solve. These problems are also inspired from problems I have had to solve in my day to day job, instead of just fancy algorithmic problems meant to trip you up.
+[Fluency Forge](https://www.fluencyforge.com/)
+Fluency Forge is an educational platform designed to teach users the Japanese character system. It offers fully-fledged courses adapted from textbooks, turning them into immersive learning experiences. Fluency Forge includes a range of features to enhance your learning, such as performance tracking to identify areas where you need improvement, a customizable review mode to focus on the concepts you're working on, and comprehensive courses that integrate seamlessly across the platform. Additionally, it provides an extensive library to help you quickly look up any information you need for deeper understanding.
+
+#### Built with Next.js, supabase, and tailwind
+
+[US Housing Data](https://bettermusic.netlify.app/)
+I built this application to allow me to track the United State's housing market. The charts quickly allow you to look at trends in the housing market based on historical data gathered from the last five years. The data was provided by relator.com
+
+#### Built With Next.js, Typescript, Tailwind, Recharts
 
 [Invoice Generator](https://lesson-invoice-generator.netlify.app/)
+
 I built this application for one of my friends who is a private music teacher. He spends a lot of time putting together invoices for the parents of the students he teachers each month. This program is designed to streamline that process. I also included a way to save and organize a roster of students. This data is present to the user in the form of table to can be easily searched and sorted. I used google oauth to login in the users, firebase to store all the necessary data, and the react-pdf package to create and generate professional invoices that can be downloaded and used as needed.
 
-[Better Music](https://bettermusic.netlify.app/)
-I built this project to learn Next.js while taking the opportunity to work on my UI/UX design skills. I heard great things about Next and after using it, I am hooked. Static generation was perfect for this site along with dynamic routing. The image optimization was extremely useful as well. As a bonus, I challenged my self to build everything from scratch. No additional libraries or packages were used in building this project. I learned a ton from doing this and am glad I took the opportunity to do so.
+#### Built with Next.js, MUI, Firebase, Next/auth, React-PDF, AWS SES, AWS Lambdas, AWS API Gateway, AWS SNS Topics
 
-[Outdoor Adventures](https://outdoor-adventures1.netlify.app/)
-Full Stack app that let's you explore all the national parks. Search and filter through all parks and click on a park in the table to view an individual page for that park.
+
