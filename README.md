@@ -28,7 +28,7 @@ Here are some of my latest projects I have been working on.
 
 Fluency Forge is an educational platform designed to teach users the Japanese character system. It offers fully-fledged courses adapted from textbooks, turning them into immersive learning experiences. Fluency Forge includes a range of features to enhance your learning, such as performance tracking to identify areas where you need improvement, a customizable review mode to focus on the concepts you're working on, and comprehensive courses that integrate seamlessly across the platform. Additionally, it provides an extensive library to help you quickly look up any information you need for deeper understanding.
 
-### [US Housing Data](https://bettermusic.netlify.app/)
+### [US Housing Data](https://us-housing-data.vercel.app/)
 
 #### Built With Next.js, Typescript, Tailwind, Recharts
 
